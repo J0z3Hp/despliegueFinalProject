@@ -1,4 +1,4 @@
-import { loginAdmin } from "../Services/loginAdmin.js";
+import { loginAdmin } from "../services/loginAdmin.js";
 import express from "express";
 
 
